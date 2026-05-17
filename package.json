@@ -1,0 +1,19 @@
+{
+  "name": "techlink",
+  "version": "1.0.0",
+  "description": "A TypeScript-based platform for technical learning and collaboration",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["techlink", "typescript", "learning", "collaboration", "education"],
+  "author": "Emoji-dot",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "@types/node": "^20.0.0"
+  }
+}
