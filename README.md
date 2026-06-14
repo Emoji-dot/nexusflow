@@ -1,4 +1,4 @@
-m# TechLink
+m# nexusflow
 
 > A comprehensive TypeScript-based platform connecting learners, mentors, and technical resources to accelerate skill development in software engineering and technology.
 
@@ -10,7 +10,7 @@ m# TechLink
 
 ## 📖 Table of Contents
 
-- [About TechLink](#about-techlink)
+- [About nexusflow](#about-nexusflow)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -33,11 +33,11 @@ m# TechLink
 
 ---
 
-## 🎯 About TechLink
+## 🎯 About nexusflow
 
-TechLink is an open-source learning platform designed to bridge the gap between aspiring developers and the technical skills they need to succeed. Whether you're a beginner taking your first steps in programming or an experienced developer looking to master new technologies, TechLink provides the tools, resources, and community support to help you achieve your goals.
+nexusflow is an open-source learning platform designed to bridge the gap between aspiring developers and the technical skills they need to succeed. Whether you're a beginner taking your first steps in programming or an experienced developer looking to master new technologies, TechLink provides the tools, resources, and community support to help you achieve your goals.
 
-### Why TechLink?
+### Why nexusflow?
 
 **For Learners:**
 - Access high-quality courses and tutorials across multiple programming languages and frameworks
